@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Anlytics
 
 [Project 1 Title](/sample_page)
 <img src="dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Marketing Strategies
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
