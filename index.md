@@ -2,7 +2,7 @@
 
 ---
 
-### Data Anlytics
+### Data Analytics
 
 [Project 1 Title](/sample_page)
 <img src="dummy_thumbnail.jpg?raw=true"/>
