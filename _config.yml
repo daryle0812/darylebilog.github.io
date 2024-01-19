@@ -1,11 +1,11 @@
 title: Daryle Bilog # your name (or website title) here
 logo: "/daryle_profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am pursuing an MS in Business Analytics at the Davis Eccles School of Business, University of Utah. 
+  I have a Master of Science in Business Analytics from the Davis Eccles School of Business, University of Utah. 
   <br><br>
   I have a working and educational knowledge of SQL, R, and Python Programming Languages.
   <br><br>
-  <a href="https://www.linkedin.com/in/daryle-bilog/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/daryle-bilog/">LinkedIn</a> | <a href="https://www.linkedin.com/in/daryle-bilog/">Resume</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
